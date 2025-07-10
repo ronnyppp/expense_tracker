@@ -18,8 +18,8 @@ A simple expense tracker app built with Flutter. Users can log their expenses th
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/c2a0564f-c48a-47d5-929a-02f621b9cbf8" alt="Screenshot 41" height="250" width="400"/>
-<img src="https://github.com/user-attachments/assets/70ec0be4-8a49-4e23-ae3e-f0dc041a4e96" alt="Screenshot 42" height="250" width="400"/>
+<img src="https://github.com/user-attachments/assets/c2a0564f-c48a-47d5-929a-02f621b9cbf8" alt="Screenshot 41" height="250" />
+<img src="https://github.com/user-attachments/assets/70ec0be4-8a49-4e23-ae3e-f0dc041a4e96" alt="Screenshot 42" height="250" />
 
 ---
 
